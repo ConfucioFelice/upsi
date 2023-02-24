@@ -1,0 +1,20 @@
+@media (max-width: 768px) {
+    .title{
+        display:none;
+    }
+}
+
+@media (min-width: 768px) {
+    .navbar-brand{
+        display:none;
+        color: white;
+    }
+}
+
+.bg-light{
+    background-color: brown !important;
+}
+
+.nav-link{
+    color:white !important;
+}
